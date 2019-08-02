@@ -24,10 +24,14 @@ Hello {}, my name is {}!
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library \
 
+Creator Of This bot - @CaptainCrazy
+
+Our Official youtube Channel - https://www.youtube.com/channel/UC-zaPRQwS4j8QPDqqwuzB1g
+
 
 You can find the list of available commands with /help.
 
-[Click here to add me in your groups](https://telegram.me/TheShinChan_Bot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/CrazyTech_SuperBot?startgroup=add)
 
 Free Hai Bro!
 """
